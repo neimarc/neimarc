@@ -6,6 +6,13 @@
 
 - 💬 Pergunte-me sobre Calistenia.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neimar&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/neimarc/github-readme-stats)
+
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/neimarc/github-readme-stats)
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Neimar-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
