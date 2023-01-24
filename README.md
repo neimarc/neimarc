@@ -1,10 +1,12 @@
 <div> 
 
-### Olá! Eu sou o Neimar Correia 👋 
-&ensp;&ensp;&ensp;&ensp;&ensp;``` Desenvolvedor Full Stack Jr```
- </div>  
- </br>
- </br>
+### Olá! Eu sou o Neimar Correia 👋
+&ensp;&ensp;&ensp;&ensp;&ensp; ```Desenvolvedor Full Stack Jr```
+ </div>
+ 
+ ***
+ 
+ <br/>
  
  <div>
 	
@@ -13,24 +15,27 @@
 - 💬 Pergunte-me sobre Calistenia.
 </div>
 
+##
 
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neimarc&show_icons=true&theme=radical)](https://github.com/neimarc/github-readme-stats) &ensp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/neimarc/github-readme-stats)
-
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/neimarc/github-readme-stats)
-
+<div>
+	<a href="https://beacons.ai/neimarc">
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=neimarc&show_icons=true&theme=radical&iclude_all_commits=true&count_private=true"/>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neimarc&layout-compact&langs_count-16&theme=radical"/>
+	
+</div>
+	
 
 <div style="display: inline_block"><br>
 	
-  <img align="center" alt="Neimar-Js" height="30"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="Neimar-React" height="30"  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img align="center" alt="Neimar-HTML" height="30"  src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="Neimar-CSS" height="30"  src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+<img align="center" alt="Neimar-Js" height="30"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img align="center" alt="Neimar-HTML" height="30"  src="https://img.shields.io/badge/HTML-ffffff?&style=for-the-badge&logo=html5&logoColor=#d75413">
+<img align="center" alt="Neimar-React" height="30"  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  
+  <img align="center" alt="Neimar-CSS" height="30"  src="https://img.shields.io/badge/CSS-ffffff?&style=for-the-badge&logo=css3&logoColor=blue">
   <img align="center" alt="Neimar-Postgresql" height="30"  src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img align="center" alt="Neimar-Docker" height="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  </div>
+	<img align="center" alt="Neimar-Docker" height="30"  src="https://img.shields.io/badge/Docker-026014?&style=for-the-badge&logo=docker&logoColor=61DAFB">
+	
 
 ##
 
