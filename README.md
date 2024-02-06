@@ -10,8 +10,7 @@
  
  <div>
 	
-- 🔭 Eu estou em transição de carreira.
-- 🌱 No momento, estou aprendendo Docker.
+- 🌱 No momento, estou aprendendo TypeScript.
 - 💬 Pergunte-me sobre Calistenia.
 </div>
 
