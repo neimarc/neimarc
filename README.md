@@ -19,8 +19,8 @@
 
 <div>
 	<a href="https://beacons.ai/neimarc">
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=neimarc&show_icons=true&theme=radical&iclude_all_commits=true&count_private=true"/>
-	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neimarc&layout-compact&langs_count-16&theme=radical"/>
+	<img height="180em" src="https://github-readme-stats-git-master-neimars-projects.vercel.app/api?username=neimarc&show_icons=true&theme=radical&iclude_all_commits=true&count_private=true"/>
+	<img height="180em" src="https://github-readme-stats-git-master-neimars-projects.vercel.app/api/top-langs/?username=neimarc&layout-compact&langs_count-16&theme=radical"/>
 	
 </div>
 	
@@ -57,6 +57,13 @@
   <img align="center" alt="Neimar-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Neimar-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 
+Estatísticas antigas:
+<div>
+	<a href="https://beacons.ai/neimarc">
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=neimarc&show_icons=true&theme=radical&iclude_all_commits=true&count_private=true"/>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neimarc&layout-compact&langs_count-16&theme=radical"/>
+	
+</div>
 
 --!>
 
